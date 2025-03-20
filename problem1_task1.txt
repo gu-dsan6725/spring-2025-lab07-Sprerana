@@ -1,0 +1,8 @@
+Input: I see a charge on my credit card statement but I paid on time, why?
+Classification: Category 15: card_payment_not_recognised
+
+Input: Do you have a branch in Timbuktu?
+Classification: Category 24: country_support
+
+Input: I lost my card and my replacement card has not arrived.
+Classification: Category 41: lost_or_stolen_card
